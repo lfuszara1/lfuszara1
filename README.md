@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lfuszara1
+- 👀 I’m interested in Ruby on Rails and React
+- 🌱 I’m currently learning Rust and WebAssembly
+- 📫 https://www.linkedin.com/in/lukaszfuszara/
